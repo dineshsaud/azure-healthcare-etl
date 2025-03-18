@@ -71,5 +71,3 @@ This repository contains an end-to-end **Azure Data Engineering pipeline** desig
 ![Audit Logs](Snapshots/audit_logs.png)
 
 ---
-
-This project provides an optimized **RCM data pipeline** for hospitals, enabling **KPI tracking, reporting, and financial insights**.
