@@ -44,13 +44,6 @@ This repository contains an end-to-end **Azure Data Engineering pipeline** desig
 3. **Gold Layer:** Creating **Fact & Dimension Tables** for business analytics.
 4. **Audit Table:** Logging ingestion and transformation activities.
 
-## Best Practices & Enhancements
-- Implemented **Key Vault** for secure credentials.
-- Optimized **ADF Pipelines for Parallel Execution**.
-- Improved **Data Governance using Unity Catalog**.
-- Added **is_active flag** for efficient data tracking.
-- Ensured **Data Quality Checks & Error Handling**.
-
 ## Snapshots & Architecture
 
 ### Medallion Architecture
