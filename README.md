@@ -51,11 +51,6 @@ This repository contains an end-to-end **Azure Data Engineering pipeline** desig
 - Added **is_active flag** for efficient data tracking.
 - Ensured **Data Quality Checks & Error Handling**.
 
-## Future Enhancements
-- **Real-time Data Processing**
-- **Machine Learning-based Predictive Analytics**
-- **Streaming Data Integration**
-
 ## Snapshots & Architecture
 
 ### Medallion Architecture
